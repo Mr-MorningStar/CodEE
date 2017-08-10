@@ -1,7 +1,7 @@
 ## Repozytorium kultury Laboratorium EE!
 
-### Rozwój dokumentu
-Komunikacja w EE jest otwartym dokumentem, nad którym chcemy razem pracować
+### Rozwój dokumentu 
+Kultura w EE jest ciągłym procesem nad którym chcemy razem pracować
 i wspólnie go rozwijać. Jeżeli jest coś, co chcesz w nim zmienić, dodać,
 uściślić, usunąć, śmiało stwórz Pull Requesta!
 
