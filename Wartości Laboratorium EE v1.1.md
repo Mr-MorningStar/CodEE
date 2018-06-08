@@ -46,7 +46,7 @@ problemy i wspierają rozwój społeczności, w których działamy.**
 **Wszystko co robimy opieramy na naszych wartościach opisanych
 w KodEEksie, który chcemy tworzyć z waszym udziałem.**
 
-## **KodEEks Postępowania**
+## **Kodeks Postępowania**
 
 - **Profesjonalizm** - Opieramy się na naszych doświadczeniach i zdobytej wiedzy.
 Nasze uwagi ograniczamy do strefy merytorycznej.
