@@ -9,7 +9,7 @@ Laboratorium EE.
 Dokument składa się z dwóch części:
 
 1. **Wprowadzenie do Laboratorium EE**
-2. **KodEEks Podstępowania**
+2. **Kodeks Podstępowania**
 
 ## Wprowadzenie do Laboratorium EE
 **Laboratorium EE jest firmą technologiczną o profilu badawczo-rozwojowym.
